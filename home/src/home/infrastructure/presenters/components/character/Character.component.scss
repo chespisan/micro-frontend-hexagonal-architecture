@@ -1,0 +1,8 @@
+
+.character-component {
+  @apply flex flex-col items-center ;
+}
+
+.character-component__img {
+  @apply rounded-full ;
+}

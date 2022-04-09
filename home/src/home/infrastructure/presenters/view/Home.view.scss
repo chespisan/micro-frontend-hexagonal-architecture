@@ -1,0 +1,12 @@
+
+.home-container {
+  @apply p-4;
+
+}
+.home-container__title {
+  @apply text-2xl font-semibold text-center;
+}
+
+.home-container__content {
+  @apply grid grid-cols-2 gap-4 my-8 place-content-center md:grid-cols-3 lg:grid-cols-4;
+}
